@@ -150,16 +150,16 @@
             this.gridViewProductList.Location = new System.Drawing.Point(15, 406);
             this.gridViewProductList.Margin = new System.Windows.Forms.Padding(6, 4, 6, 4);
             this.gridViewProductList.Name = "gridViewProductList";
-            this.gridViewProductList.Size = new System.Drawing.Size(831, 164);
+            this.gridViewProductList.Size = new System.Drawing.Size(923, 164);
             this.gridViewProductList.TabIndex = 9;
             // 
             // btnAddProduct
             // 
             this.btnAddProduct.Font = new System.Drawing.Font("Copperplate Gothic Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAddProduct.Location = new System.Drawing.Point(557, 352);
+            this.btnAddProduct.Location = new System.Drawing.Point(770, 352);
             this.btnAddProduct.Margin = new System.Windows.Forms.Padding(6, 4, 6, 4);
             this.btnAddProduct.Name = "btnAddProduct";
-            this.btnAddProduct.Size = new System.Drawing.Size(289, 46);
+            this.btnAddProduct.Size = new System.Drawing.Size(168, 46);
             this.btnAddProduct.TabIndex = 10;
             this.btnAddProduct.Text = "Add Product";
             this.btnAddProduct.UseVisualStyleBackColor = true;
@@ -170,7 +170,7 @@
             this.richTxtDescription.Location = new System.Drawing.Point(557, 98);
             this.richTxtDescription.Margin = new System.Windows.Forms.Padding(6, 4, 6, 4);
             this.richTxtDescription.Name = "richTxtDescription";
-            this.richTxtDescription.Size = new System.Drawing.Size(289, 246);
+            this.richTxtDescription.Size = new System.Drawing.Size(381, 246);
             this.richTxtDescription.TabIndex = 11;
             this.richTxtDescription.Text = "";
             // 
@@ -220,7 +220,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightSalmon;
-            this.ClientSize = new System.Drawing.Size(861, 586);
+            this.ClientSize = new System.Drawing.Size(953, 586);
             this.Controls.Add(this.txtSellPrice);
             this.Controls.Add(this.txtQuantity);
             this.Controls.Add(this.cbCategory);
